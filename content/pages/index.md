@@ -14,10 +14,17 @@ sections:
     items:
       - title: 20x
         subtitle: BETTER THEN OTHERS
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Welcome to \[Your Tour Site Name] – Where Every Journey Becomes a
+          Story!**
+
+
+          Tired of cookie-cutter tours? So are we. At \[Your Tour Site Name], we
+          don’t just offer trips – we craft unforgettable *experiences*. Here’s
+          what sets us apart from everyone else:
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
