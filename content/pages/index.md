@@ -2,37 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: SNOW PEAK JOURNEY
-      color: text-dark
-      type: TitleBlock
-    subtitle: Plan your next trip with snowpeak for best toor and guide
-    text: >+
-      Manali offers stunning snowy landscapes, cozy retreats, and adventurous
-      mountain activities. Perfect for a peaceful getaway or an
-      adrenaline-filled journey.
-
-    actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: it's time to go manali with
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -150,6 +119,37 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: SNOW PEAK JOURNEY
+      color: text-dark
+      type: TitleBlock
+    subtitle: Plan your next trip with snowpeak for best toor and guide
+    text: >+
+      Manali offers stunning snowy landscapes, cozy retreats, and adventurous
+      mountain activities. Perfect for a peaceful getaway or an
+      adrenaline-filled journey.
+
+    actions: []
+    media:
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: it's time to go manali with
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
