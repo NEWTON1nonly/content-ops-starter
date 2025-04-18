@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: CHEAPEST PRICES FOR YOUR NEXT TRIP
       color: text-dark
       styles:
         self:
