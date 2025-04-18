@@ -46,10 +46,13 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Our guides are locals – born and raised – who know every hidden gem,
+          secret trail, and local story. Combine that with top-notch service and
+          international safety standards, and you’ve got the best of both
+          worlds.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
