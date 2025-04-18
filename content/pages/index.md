@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: SNOW PEAK JOURNEY
-      color: text-light
+      color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
