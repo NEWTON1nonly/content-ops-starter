@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Plan your next trip with snowpeak for best toor and guide
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Manali offers stunning snowy landscapes, cozy retreats, and adventurous
+      mountain activities. Perfect for a peaceful getaway or an
+      adrenaline-filled journey.
+
     actions:
       - label: Get started
         altText: ''
