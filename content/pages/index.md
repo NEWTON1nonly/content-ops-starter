@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: it's time to go manali with
       color: text-primary
       type: Badge
     elementId: ''
