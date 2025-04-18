@@ -13,16 +13,7 @@ sections:
       mountain activities. Perfect for a peaceful getaway or an
       adrenaline-filled journey.
 
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
