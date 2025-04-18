@@ -151,7 +151,7 @@ sections:
       text: TELL US ABOUT YOUR QUERIES
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: WE WILL REACH YOU WITHIN 24 HOURS
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
